@@ -15,7 +15,6 @@ Before cloning this repository, ensure that you have [Neovim](https://neovim.io/
 ## Future Updates
 
 - Expanding keymaps for even more efficient navigation and command execution.
-- Integration of Go language support, including LSP (Language Server Protocol), formatter, debugger, linter, and the `goreportcard` CLI tool for code quality analysis.
 - Implementing support for build systems like CMake or Makefile to handle build commands for compiled languages such as C++ and Go, streamlining the compilation process.
 
 ## Installation
@@ -24,8 +23,10 @@ Before cloning this repository, ensure that you have [Neovim](https://neovim.io/
 
    ```bash
    git clone https://github.com/MrMoneyInTheBank/vim-config.git ~/.config/nvim
+   ```
+
 2. Open Neovim and the configuration will automatically set up everything for you.
 
 ## Contributing
-Feel free to fork this repository and submit pull requests if you have suggestions or improvements.
 
+Feel free to fork this repository and submit pull requests if you have suggestions or improvements.
